@@ -5,3 +5,5 @@ So I made this tool.
 
 [Here](https://youtu.be/HKrrOt2tnAI) you can see a short teaser I made back then. 
 And [This](https://youtu.be/npXttTeTF60) is a music video which uses a particle simulation made with _Dusty_.
+
+There is also a packed jar available [here](http://www.mediafire.com/file/4camtb14hbz0r8z/Dusty.jar/file).
